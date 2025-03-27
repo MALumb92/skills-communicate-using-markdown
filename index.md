@@ -10,3 +10,7 @@
 ``` javascript
 var example = "¡Hola Barcelona!"
 ```
+
+- [x] Finish introductory Github tasks
+- [ ] Practice javascript more
+- [ ] Work
